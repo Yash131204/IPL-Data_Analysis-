@@ -62,11 +62,10 @@ This IPL Dashboard showcases the thrilling journey of the Indian Premier League 
 
 ## 🧑‍💻 Author
 
-*Prathviraj Chavan*  
+*Yash Dashetwar*  
 🎓 TYBCA - Data Science, Sri Balaji University, Pune  
-📧 mr.prathvirajchavan@gmail.com  
-🔗 [GitHub Profile](https://github.com/prathvichavan)
-
+📧 yashdashetwar2456@gmail.com
+🔗 [GitHub Profile](https://github.com/Yash131204)
 ---
 
 ## 🚀 How to Use
