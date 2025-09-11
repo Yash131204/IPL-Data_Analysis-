@@ -31,15 +31,6 @@ This Power BI Dashboard captures the complete history of the *Indian Premier Lea
 
 ---
 
-## 🎥 Demo
-
-A short walkthrough video demo is available to help you navigate the dashboard effectively.
-
-> 📽 *Watch the Video Demo*  
-> 
-
-https://github.com/user-attachments/assets/e05d8312-59a0-4161-b38c-a5c0ffea6aa4
-
 
 
 ---
